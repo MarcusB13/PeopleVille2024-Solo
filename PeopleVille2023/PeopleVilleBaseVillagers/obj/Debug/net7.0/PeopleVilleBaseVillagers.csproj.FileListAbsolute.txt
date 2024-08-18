@@ -1,0 +1,16 @@
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\bin\Debug\net8.0\lib\PeopleVilleVillagerHomeless.dll
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\bin\Debug\net8.0\PeopleVilleBaseVillagers.deps.json
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\bin\Debug\net8.0\PeopleVilleBaseVillagers.dll
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\bin\Debug\net8.0\PeopleVilleBaseVillagers.pdb
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\bin\Debug\net8.0\PeopleVilleEngine.dll
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\bin\Debug\net8.0\PeopleVilleEngine.pdb
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\obj\Debug\net8.0\PeopleVilleBaseVillagers.csproj.AssemblyReference.cache
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\obj\Debug\net8.0\PeopleVilleBaseVillagers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\obj\Debug\net8.0\PeopleVilleBaseVillagers.AssemblyInfoInputs.cache
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\obj\Debug\net8.0\PeopleVilleBaseVillagers.AssemblyInfo.cs
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\obj\Debug\net8.0\PeopleVilleBaseVillagers.csproj.CoreCompileInputs.cache
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\obj\Debug\net8.0\PeopleVilleBaseVillagers.csproj.CopyComplete
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\obj\Debug\net8.0\PeopleVilleBaseVillagers.dll
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\obj\Debug\net8.0\refint\PeopleVilleBaseVillagers.dll
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\obj\Debug\net8.0\PeopleVilleBaseVillagers.pdb
+C:\Users\mego\source\repos\PeopleVille2023\PeopleVilleBaseVillagers\obj\Debug\net8.0\ref\PeopleVilleBaseVillagers.dll

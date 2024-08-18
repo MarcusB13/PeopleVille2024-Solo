@@ -1,0 +1,17 @@
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/bin/Release/net8.0/lib/names.json
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/bin/Release/net8.0/lib/PeopleVilleVillagerHomeless.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/bin/Release/net8.0/ItemSystem.deps.json
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/bin/Release/net8.0/ItemSystem.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/bin/Release/net8.0/ItemSystem.pdb
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/bin/Release/net8.0/PeopleVilleEngine.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/bin/Release/net8.0/PeopleVilleEngine.pdb
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/obj/Release/net8.0/ItemSystem.csproj.AssemblyReference.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/obj/Release/net8.0/ItemSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/obj/Release/net8.0/ItemSystem.AssemblyInfoInputs.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/obj/Release/net8.0/ItemSystem.AssemblyInfo.cs
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/obj/Release/net8.0/ItemSystem.csproj.CoreCompileInputs.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/obj/Release/net8.0/ItemSystem.csproj.Up2Date
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/obj/Release/net8.0/ItemSystem.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/obj/Release/net8.0/refint/ItemSystem.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/obj/Release/net8.0/ItemSystem.pdb
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/ItemSystem/obj/Release/net8.0/ref/ItemSystem.dll

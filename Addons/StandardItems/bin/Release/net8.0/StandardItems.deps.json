@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StandardItems/1.0.0": {
+        "dependencies": {
+          "ItemSystem": "1.0.0",
+          "PeopleVilleEngine": "1.0.0"
+        },
+        "runtime": {
+          "StandardItems.dll": {}
+        }
+      },
+      "ItemSystem/1.0.0": {
+        "dependencies": {
+          "PeopleVilleEngine": "1.0.0"
+        },
+        "runtime": {
+          "ItemSystem.dll": {}
+        }
+      },
+      "PeopleVilleEngine/1.0.0": {
+        "runtime": {
+          "PeopleVilleEngine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StandardItems/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ItemSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PeopleVilleEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

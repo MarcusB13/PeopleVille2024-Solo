@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PeopleVilleBaseVillagers/1.0.0": {
+        "dependencies": {
+          "PeopleVilleEngine": "1.0.0"
+        },
+        "runtime": {
+          "PeopleVilleBaseVillagers.dll": {}
+        }
+      },
+      "PeopleVilleEngine/1.0.0": {
+        "runtime": {
+          "PeopleVilleEngine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeopleVilleBaseVillagers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PeopleVilleEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

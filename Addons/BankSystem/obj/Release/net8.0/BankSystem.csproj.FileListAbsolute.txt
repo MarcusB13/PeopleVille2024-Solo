@@ -1,0 +1,17 @@
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/bin/Release/net8.0/lib/names.json
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/bin/Release/net8.0/lib/PeopleVilleVillagerHomeless.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/bin/Release/net8.0/BankSystem.deps.json
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/bin/Release/net8.0/BankSystem.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/bin/Release/net8.0/BankSystem.pdb
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/bin/Release/net8.0/PeopleVilleEngine.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/bin/Release/net8.0/PeopleVilleEngine.pdb
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/obj/Release/net8.0/BankSystem.csproj.AssemblyReference.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/obj/Release/net8.0/BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/obj/Release/net8.0/BankSystem.AssemblyInfoInputs.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/obj/Release/net8.0/BankSystem.AssemblyInfo.cs
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/obj/Release/net8.0/BankSystem.csproj.CoreCompileInputs.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/obj/Release/net8.0/BankSystem.csproj.Up2Date
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/obj/Release/net8.0/BankSystem.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/obj/Release/net8.0/refint/BankSystem.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/obj/Release/net8.0/BankSystem.pdb
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/BankSystem/obj/Release/net8.0/ref/BankSystem.dll

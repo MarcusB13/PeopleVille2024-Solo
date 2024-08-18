@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "PeopleVilleEngine/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/PeopleVilleEngine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleVilleEngine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeopleVilleEngine/1.0.0": {
+      "type": "project",
+      "path": "../PeopleVilleEngine/PeopleVilleEngine.csproj",
+      "msbuildProject": "../PeopleVilleEngine/PeopleVilleEngine.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "PeopleVilleEngine >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/marcusbager/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/PeopleVille2023/PeopleVilleVillagerHomeless/PeopleVilleVillagerHomeless.csproj",
+      "projectName": "PeopleVilleVillagerHomeless",
+      "projectPath": "/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/PeopleVille2023/PeopleVilleVillagerHomeless/PeopleVilleVillagerHomeless.csproj",
+      "packagesPath": "/Users/marcusbager/.nuget/packages/",
+      "outputPath": "/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/PeopleVille2023/PeopleVilleVillagerHomeless/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/marcusbager/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/PeopleVille2023/PeopleVilleEngine/PeopleVilleEngine.csproj": {
+              "projectPath": "/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/PeopleVille2023/PeopleVilleEngine/PeopleVilleEngine.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

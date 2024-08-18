@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JobSystem/1.0.0": {
+        "dependencies": {
+          "BankSystem": "1.0.0",
+          "PeopleVilleEngine": "1.0.0"
+        },
+        "runtime": {
+          "JobSystem.dll": {}
+        }
+      },
+      "BankSystem/1.0.0": {
+        "dependencies": {
+          "PeopleVilleEngine": "1.0.0"
+        },
+        "runtime": {
+          "BankSystem.dll": {}
+        }
+      },
+      "PeopleVilleEngine/1.0.0": {
+        "runtime": {
+          "PeopleVilleEngine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JobSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PeopleVilleEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

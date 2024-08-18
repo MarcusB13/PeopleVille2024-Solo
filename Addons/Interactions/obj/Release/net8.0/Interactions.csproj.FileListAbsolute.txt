@@ -1,0 +1,17 @@
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/obj/Release/net8.0/Interactions.csproj.AssemblyReference.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/obj/Release/net8.0/Interactions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/obj/Release/net8.0/Interactions.AssemblyInfoInputs.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/obj/Release/net8.0/Interactions.AssemblyInfo.cs
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/obj/Release/net8.0/Interactions.csproj.CoreCompileInputs.cache
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/bin/Release/net8.0/lib/names.json
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/bin/Release/net8.0/lib/PeopleVilleVillagerHomeless.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/bin/Release/net8.0/Interactions.deps.json
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/bin/Release/net8.0/Interactions.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/bin/Release/net8.0/Interactions.pdb
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/bin/Release/net8.0/PeopleVilleEngine.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/bin/Release/net8.0/PeopleVilleEngine.pdb
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/obj/Release/net8.0/Interact.BC862F05.Up2Date
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/obj/Release/net8.0/Interactions.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/obj/Release/net8.0/refint/Interactions.dll
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/obj/Release/net8.0/Interactions.pdb
+/Users/marcusbager/Desktop/Skole Privat/skole/Hf2/ObjProgrammering/PeopleVillage2024-RoDone/Addons/Interactions/obj/Release/net8.0/ref/Interactions.dll
